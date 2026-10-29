@@ -1,12 +1,18 @@
-# English Vocabulary by Frequency and Part of Speech
+# A Different Way to Organize English Vocabulary
 
-I want to build an English vocabulary list that helps learners decide which words to focus on first and which ones can wait.
+I have an idea for organizing English vocabulary that I'd like to share.
 
-The idea is simple: organize words from high frequency to low frequency, while giving priority to different parts of speech in this order:
+Instead of learning words in frequency order alone, why not also prioritize them by part of speech?
+
+My proposed order is:
 
 **Pronouns > Prepositions > Adverbs > Adjectives > Verbs > Nouns**
 
-The goal is not to learn every word equally, but to make vocabulary learning more focused and practical. By combining word frequency with part-of-speech priority, I hope to create a list that helps learners spend their time where it matters most.
+Combined with word frequency, this approach could help learners decide which words to focus on first and which ones can wait until later.
 
-I'm looking for people who are interested in helping organize, process, and improve the vocabulary data. Contributions of code, data, and suggestions are welcome.
+I haven't built the vocabulary list yet. I'm sharing this idea in the hope that someone might find it interesting and want to explore it, improve it, or build a vocabulary list based on it.
+
+If you're interested, feel free to take the idea and give it a try.
+
+
 
